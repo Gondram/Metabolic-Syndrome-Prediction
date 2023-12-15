@@ -19,7 +19,7 @@ As you can see in both cases the mean with metabolic syndrome present was much h
 
 ## Feature Engineering
 
-I chose to use two methods of feature engineering. Firt I used Principal Component Analysis (PCA) to reduce the number of features. Then I used a forward selection wrapper to narrow down the features to ten.
+I chose to use two methods of feature engineering. First I used Principal Component Analysis (PCA) to reduce the number of features. Then I used a forward selection wrapper to narrow down the features to ten.
 
 ## Neural Networks
 
