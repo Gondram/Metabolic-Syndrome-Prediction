@@ -85,4 +85,4 @@ The 2 best models were the Manual Neural Network and the KNN w/ Filter.
 
 Based on the model accuracy and precision I recommend using the Manual Neural Network model. The KNN w/ Filter model had a similar accuracy and higher precision, but had a much higher instance of false negatives. Given the medical nature of this task I am prioritizing avoiding false negatives. 
 
-### I recommend the Manual Neural Network for production and/or further tweaking.
+# I recommend the Manual Neural Network for production and/or further tweaking.
