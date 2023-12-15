@@ -3,7 +3,7 @@
 
 ## Task
 
-My task here was to predict metabolic syndrome based on common risk factors. 
+My task here was to predict metabolic syndrome based on common risk factors. I used the dataset [here](https://data.world/informatics-edu/metabolic-syndrome-prediction), which came from the NHANES initiative.
 
 ## Permutation Importance
 
