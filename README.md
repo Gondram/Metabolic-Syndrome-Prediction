@@ -39,40 +39,40 @@ Starting KNN:
 ~~~
                 precision    recall  f1-score  
 
-  weighted avg       0.76      0.77      0.76           
+weighted avg       0.76      0.77      0.76           
 
-    accuracy 0.77     
-~~~
+accuracy 0.77     
 ~~~
  KNN w/ PCA:
-
+~~~
                 precision    recall  f1-score   
-  weighted avg       0.79      0.79      0.879
+weighted avg       0.79      0.79      0.879
 
-    accuracy 0.79 
+accuracy 0.79 
 ~~~
 KNN w/ Filter:
-
+~~~
                  precision    recall  f1-score
-  weighted avg       0.83      0.82      0.82    
+weighted avg       0.83      0.82      0.82    
 
-    accuracy  0.83 
-
+accuracy  0.83 
+~~~
 Manual Neural Network:
-
+~~~
                 precision    recall  f1-score
 
-  weighted avg       0.79      0.73      0.76          
+weighted avg       0.79      0.73      0.76          
 
-    accuracy  0.84 
-
+accuracy  0.84 
+~~~
 Keras Tuned Neural Network:
-
+~~~
                 precision    recall  f1-score
 
-  weighted avg       0.76      0.69      0.82      
+weighted avg       0.76      0.69      0.82      
 
-    accuracy  0.82 
+accuracy  0.82 
+~~~
     
 ## Recommendation
 
