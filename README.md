@@ -1,4 +1,5 @@
 # Metabolic Syndrome Prediction
+- David Atkins
 
 ## Task
 
