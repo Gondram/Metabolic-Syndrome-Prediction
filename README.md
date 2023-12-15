@@ -1,5 +1,5 @@
 # Metabolic Syndrome Prediction
-- David Atkins
+By [David Atkins](https://github.com/Gondram)
 
 ## Task
 
