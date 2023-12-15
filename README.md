@@ -36,20 +36,21 @@ I created several models.
 
 ## Model Evaluation Metrics
 Starting KNN:
-
+~~~
                 precision    recall  f1-score  
 
   weighted avg       0.76      0.77      0.76           
 
     accuracy 0.77     
-
+~~~
+~~~
  KNN w/ PCA:
 
                 precision    recall  f1-score   
   weighted avg       0.79      0.79      0.879
 
     accuracy 0.79 
-
+~~~
 KNN w/ Filter:
 
                  precision    recall  f1-score
